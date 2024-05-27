@@ -5,7 +5,7 @@ Building a AI Agent that recognize emotions on sentences.
 
 ## Installation / Utilization
 
-=> You will need **Python 3.11.7** & CUDA 11.8 (for training on your GPU the models)
+=> You will need **Python 3.11.7** & **CUDA 11.8** (for training on your GPU the models)
 
 => Create a .env with ```python -m venv .env```
 
