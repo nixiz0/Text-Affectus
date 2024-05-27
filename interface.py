@@ -3,6 +3,8 @@ import torch
 from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
 
 
+# Run <= streamlit run interface.py =>
+
 # Load model and tokenizer
 tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
 model_en = DistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased', num_labels=6)
