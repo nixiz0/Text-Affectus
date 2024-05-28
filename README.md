@@ -1,4 +1,4 @@
-## Emotion AI Recognition App
+## Text Emotion Recognition AI (NLP)
 
 Building a AI Agent that recognize emotions on sentences.
 
